@@ -1,2 +1,0 @@
-struct _HEAP_LOCAL_SEGMENT_INFO;
-

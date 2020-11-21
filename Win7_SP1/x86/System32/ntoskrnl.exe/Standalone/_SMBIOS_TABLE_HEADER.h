@@ -1,2 +1,0 @@
-struct _SMBIOS_TABLE_HEADER;
-
